@@ -6,7 +6,7 @@ file = open(filename, "r")
 contents = file.read()
 
 
-hold_msg = "Press Eneter to exit this program..."
+hold_msg = "Press Enter to exit this program..."
 i = 0
 
 q = deque()
