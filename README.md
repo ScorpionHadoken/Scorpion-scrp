@@ -20,4 +20,6 @@ wait on user to press enter:
 
 ...,
 
-That's it
+# Run in cmd
+
+SCORPION filename.scrp
