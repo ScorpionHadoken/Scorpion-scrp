@@ -14,7 +14,7 @@ You must end lines of code or whatever with ','
 
 print out text:
 
-/text here\_,
+/text here\\_,
 
 wait on user to press enter:
 
